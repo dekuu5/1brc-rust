@@ -1,0 +1,4 @@
+[workspace]
+members = ["brc-datafusion"]
+
+resolver = "2"
